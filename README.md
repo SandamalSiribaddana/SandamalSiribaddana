@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandamalsiribaddana&label=Profile%20views&color=0e75b6&style=flat" alt="sandamalsiribaddana" /> </p>
 
-- 📫 How to reach me **dilithasandamal13@gmail.com**
+
+
+- ## 🚀 About Me
+- 🎓 Data Science Undergraduate
+- 💻 Full Stack Developer (React | Spring Boot | Node.js)
+- 🔍 Interested in AI, ML & System Development
+- 📫 Email: dilithasandamal13@gmail.com
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
